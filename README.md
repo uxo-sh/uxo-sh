@@ -57,7 +57,7 @@ drwxr-xr-x  tools/
 
 > 🔧 Currently building something cool...  
 > 📖 Currently reading: *The Linux Command Line* by W. Shotts  
-> 🎯 2025 goal: contribute to an open-source project  
+> 🎯 2026 goal: contribute to an open-source project  
 
 ---
 
