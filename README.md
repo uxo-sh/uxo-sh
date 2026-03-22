@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1793D1&background=0D1117&center=true&vCenter=true&width=500&lines=i+use+arch+btw...;pacman+-Syu+life;neovim+enjoyer;\root+is+not+a+privilege+it's+a+responsability%2C+stupid.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1793D1&background=0D1117&center=true&vCenter=true&width=500&lines=i+use+arch+btw...;pacman+-Syu+life;neovim+enjoyer;root+is+not+a+privilege%2C+it%27s+a+responsibility)
 
 </div>
 
