@@ -1,16 +1,18 @@
-```
-██╗   ██╗██╗  ██╗ ██████╗       ███████╗██╗  ██╗
-██║   ██║╚██╗██╔╝██╔═══██╗      ██╔════╝██║  ██║
-██║   ██║ ╚███╔╝ ██║   ██║      ███████╗███████║
-██║   ██║ ██╔██╗ ██║   ██║      ╚════██║██╔══██║
-╚██████╔╝██╔╝ ██╗╚██████╔╝      ███████║██║  ██║
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝       ╚══════╝╚═╝  ╚═╝
-                                            [uxo-sh@arch ~]
-```
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=1793D1&background=0D1117&center=true&vCenter=true&width=500&lines=i+use+arch+btw...;pacman+-Syu+life;neovim+enjoyer;root+is+not+a+privilege%2C+it%27s+a+responsibility)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=0&pause=0&color=1793D1&center=true&vCenter=true&width=300&height=70&lines=UXO-SH" alt="uxo-sh"/>
+
+<sub>[ hacker · arch linux · open source ]</sub>
+
+<br><br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=1793D1&background=0D1117&center=true&vCenter=true&width=600&prefix=%5Buxo-sh%40arch+~%5D%24+&lines=i+use+arch+btw...;pacman+-Syu+life;neovim+enjoyer;root+is+not+a+privilege%2C+it%27s+a+responsibility)
+
+![Arch](https://img.shields.io/badge/arch+linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
+![Neovim](https://img.shields.io/badge/neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Fish](https://img.shields.io/badge/fish+zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Security](https://img.shields.io/badge/security-e06c75?style=flat-square&logo=hackthebox&logoColor=white)
 
 </div>
 
@@ -23,7 +25,7 @@
 ```
 Name    : uxo-sh
 OS      : Arch Linux (btw)
-Shell   : zsh + oh-my-zsh
+Shell   : fish + zsh
 Editor  : neovim (no mouse, no mercy)
 WM      : Hyprland (end-4 dotfiles)
 Status  : pacman -Syu && coffee
@@ -68,8 +70,8 @@ drwxr-xr-x  tools/
 | Key       | Value                                      |
 |-----------|--------------------------------------------|
 | GitHub    | [@uxo-sh](https://github.com/uxo-sh) |
-| Email     | `tojoandrianantoandro@gmail.com`                           |
-| Discord   | `https://discord.gg/uxoriouswheat83`                          |
+| Email     | `tojoandrianantoandro@gmail.com`           |
+| Discord   | [discord.gg/uxoriousheat83](https://discord.gg/uxoriousheat83) |
 
 ---
 
