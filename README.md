@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=42&duration=0&pause=0&color=1793D1&center=true&vCenter=true&width=300&height=70&lines=UXO-SH" alt="uxo-sh"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=1793D1&height=80&text=UXO-SH&fontColor=1793D1&fontSize=60&fontAlign=50&fontAlignY=60&desc=hacker·arch+linux·open+source&descAlign=50&descAlignY=85&descSize=13&descColor=8b949e" alt="uxo-sh" width="100%"/>
 
-<sub>[ hacker · arch linux · open source ]</sub>
 
-<br><br>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=1793D1&background=0D1117&center=true&vCenter=true&width=600&prefix=%5Buxo-sh%40arch+~%5D%24+&lines=i+use+arch+btw...;pacman+-Syu+life;neovim+enjoyer;root+is+not+a+privilege%2C+it%27s+a+responsibility)
 
