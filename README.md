@@ -35,19 +35,27 @@ Status  : pacman -Syu && coffee
 [uxo-sh@arch ~]$ ls -la skills/
 ```
 
-```
-drwxr-xr-x  languages/
-  ├── Python       ████████████░░░  85%
-  ├── JavaScript   ██████████░░░░░  70%
-  ├── Bash/Shell   █████████░░░░░░  65%
-  └── C            ██████░░░░░░░░░  40%
+<div align="center">
 
-drwxr-xr-x  tools/
-  ├── Git          ██████████████░  95%
-  ├── Docker       ████████░░░░░░░  55%
-  ├── Neovim       █████████████░░  90%
-  └── pacman       ███████████████  100% ✓
-```
+**`languages/`**
+
+[![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bash](https://img.shields.io/badge/Bash%2FShell-65%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
+[![C](https://img.shields.io/badge/C-40%25-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+**`tools/`**
+
+[![Git](https://img.shields.io/badge/Git-95%25-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/Docker-55%25-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
+[![Neovim](https://img.shields.io/badge/Neovim-90%25-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io)
+[![Arch](https://img.shields.io/badge/pacman-100%25-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org)
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,bash,c,git,docker,neovim,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -55,9 +63,16 @@ drwxr-xr-x  tools/
 [uxo-sh@arch ~]$ cat current_project.log
 ```
 
-> 🔧 Currently building something cool...  
-> 📖 Currently reading: *The Linux Command Line* by W. Shotts  
-> 🎯 2026 goal: contribute to an open-source project  
+<div align="center">
+
+| | |
+|---|---|
+| 🔧 | Currently building something cool... |
+| 📖 | Currently reading: *The Linux Command Line* — W. Shotts |
+| 🎯 | 2026 goal: contribute to an open-source project |
+
+
+</div>
 
 ---
 
