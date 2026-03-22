@@ -25,7 +25,7 @@ Name    : uxo-sh
 OS      : Arch Linux (btw)
 Shell   : zsh + oh-my-zsh
 Editor  : neovim (no mouse, no mercy)
-WM      : i3 / hyprland
+WM      : Hyprland (end-4 dotfiles)
 Status  : pacman -Syu && coffee
 ```
 
