@@ -75,9 +75,9 @@ drwxr-xr-x  tools/
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxo-sh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=1793D1&title_color=1793D1)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxo-sh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1793D1)
+![Streak](https://streak-stats.demolab.com?user=uxo-sh&theme=tokyonight&hide_border=true&background=0D1117&ring=1793D1&fire=e06c75&currStreakLabel=1793D1)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=uxo-sh&theme=tokyo-night&bg_color=0D1117&color=1793D1&line=1793D1&point=e06c75&hide_border=true)
 
 </div>
 
