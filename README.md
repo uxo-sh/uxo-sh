@@ -68,8 +68,8 @@ drwxr-xr-x  tools/
 | Key       | Value                                      |
 |-----------|--------------------------------------------|
 | GitHub    | [@uxo-sh](https://github.com/uxo-sh) |
-| Email     | `your@email.com`                           |
-| Discord   | `uxo-sh`                          |
+| Email     | `tojoandrianantoandro@gmail.com`                           |
+| Discord   | `https://discord.gg/uxoriouswheat83`                          |
 
 ---
 
