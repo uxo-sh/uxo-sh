@@ -104,7 +104,6 @@ Status  : pacman -Syu && coffee
 [uxo-sh@arch ~]$ exit
 logout — have a productive session 🐧
 ```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=uxo-sh&color=1793D1&style=flat-square&label=visitors)
+<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=uxo-sh&color=1793D1&style=flat-square&label=visitors) -->
 
 </div>
